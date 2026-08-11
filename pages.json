@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "url": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "title": "NewGenBank | Acesse sua conta",
+    "screenshot": "dudugomes-student.github.io_TccNewGenBank_.png",
+    "links": [
+      {
+        "text": "NG\nNewGenBank",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Criar conta  ↗",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+      },
+      {
+        "text": "Esqueci minha senha",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html"
+      },
+      {
+        "text": "Abra a sua gratuitamente",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Mostrar",
+        "ariaLabel": "Mostrar senha",
+        "type": "button"
+      },
+      {
+        "text": "Entrar na conta\n→",
+        "ariaLabel": null,
+        "type": "submit"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "voce@exemplo.com",
+        "ariaLabel": null
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Digite sua senha",
+        "ariaLabel": null
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "url": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "title": "NewGenBank | Acesse sua conta",
+    "screenshot": "dudugomes-student.github.io_TccNewGenBank_index.html.png",
+    "links": [
+      {
+        "text": "NG\nNewGenBank",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Criar conta  ↗",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+      },
+      {
+        "text": "Esqueci minha senha",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html"
+      },
+      {
+        "text": "Abra a sua gratuitamente",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Mostrar",
+        "ariaLabel": "Mostrar senha",
+        "type": "button"
+      },
+      {
+        "text": "Entrar na conta\n→",
+        "ariaLabel": null,
+        "type": "submit"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "voce@exemplo.com",
+        "ariaLabel": null
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Digite sua senha",
+        "ariaLabel": null
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "url": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html",
+    "title": "Criar conta | NewGenBank",
+    "screenshot": "dudugomes-student.github.io_TccNewGenBank_pages_cadastro.html.png",
+    "links": [
+      {
+        "text": "NG\nNewGenBank",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Já tenho conta",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Continuar →",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Voltar",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Continuar →",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Mostrar",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Mostrar",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Voltar",
+        "ariaLabel": null,
+        "type": "button"
+      },
+      {
+        "text": "Criar minha conta",
+        "ariaLabel": null,
+        "type": "submit"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "Como aparece no documento",
+        "ariaLabel": null
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "placeholder": "000.000.000-00",
+        "ariaLabel": null
+      },
+      {
+        "type": "date",
+        "name": "birth",
+        "placeholder": "",
+        "ariaLabel": null
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "voce@exemplo.com",
+        "ariaLabel": null
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "placeholder": "(00) 00000-0000",
+        "ariaLabel": null
+      },
+      {
+        "type": "text",
+        "name": "guardian",
+        "placeholder": "Nome completo do responsável",
+        "ariaLabel": null
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "placeholder": "Mínimo de 8 caracteres",
+        "ariaLabel": null
+      },
+      {
+        "type": "password",
+        "name": "confirmPassword",
+        "placeholder": "Repita a senha",
+        "ariaLabel": null
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "url": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html",
+    "title": "Recuperar senha | NewGenBank",
+    "screenshot": "dudugomes-student.github.io_TccNewGenBank_pages_recuperar-senha.html.png",
+    "links": [
+      {
+        "text": "NG\nNewGenBank",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Voltar ao login",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Cancelar",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      },
+      {
+        "text": "Voltar ao login",
+        "href": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Enviar instruções",
+        "ariaLabel": null,
+        "type": "submit"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "voce@exemplo.com",
+        "ariaLabel": null
+      }
+    ]
+  }
+]
