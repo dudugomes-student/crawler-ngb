@@ -1,1 +1,354 @@
-{}
+[
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "element": {
+      "index": 0,
+      "tag": "a",
+      "text": "NG NewGenBank",
+      "ariaLabel": "Página inicial do NewGenBank",
+      "role": null,
+      "href": "index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank__ng-newgenbank.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "element": {
+      "index": 1,
+      "tag": "a",
+      "text": "Criar conta ↗",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/cadastro.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+    },
+    "screenshot": "tccnewgenbank__criar-conta.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "element": {
+      "index": 2,
+      "tag": "a",
+      "text": "Esqueci minha senha",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/recuperar-senha.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html"
+    },
+    "screenshot": "tccnewgenbank__esqueci-minha-senha.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "element": {
+      "index": 3,
+      "tag": "button",
+      "text": "Mostrar",
+      "ariaLabel": "Mostrar senha",
+      "role": null,
+      "href": null,
+      "type": "button",
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "state-change",
+      "destination": null
+    },
+    "screenshot": "tccnewgenbank__mostrar.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/",
+    "element": {
+      "index": 5,
+      "tag": "a",
+      "text": "Abra a sua gratuitamente",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/cadastro.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+    },
+    "screenshot": "tccnewgenbank__abra-a-sua-gratuitamente.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "element": {
+      "index": 0,
+      "tag": "a",
+      "text": "NG NewGenBank",
+      "ariaLabel": "Página inicial do NewGenBank",
+      "role": null,
+      "href": "index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "no-visible-change",
+      "destination": null
+    },
+    "screenshot": null
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "element": {
+      "index": 1,
+      "tag": "a",
+      "text": "Criar conta ↗",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/cadastro.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+    },
+    "screenshot": "tccnewgenbank-index-html__criar-conta.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "element": {
+      "index": 2,
+      "tag": "a",
+      "text": "Esqueci minha senha",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/recuperar-senha.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html"
+    },
+    "screenshot": "tccnewgenbank-index-html__esqueci-minha-senha.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "element": {
+      "index": 3,
+      "tag": "button",
+      "text": "Mostrar",
+      "ariaLabel": "Mostrar senha",
+      "role": null,
+      "href": null,
+      "type": "button",
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "state-change",
+      "destination": null
+    },
+    "screenshot": "tccnewgenbank-index-html__mostrar.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/index.html",
+    "element": {
+      "index": 5,
+      "tag": "a",
+      "text": "Abra a sua gratuitamente",
+      "ariaLabel": null,
+      "role": null,
+      "href": "pages/cadastro.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html"
+    },
+    "screenshot": "tccnewgenbank-index-html__abra-a-sua-gratuitamente.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html",
+    "element": {
+      "index": 0,
+      "tag": "a",
+      "text": "NG NewGenBank",
+      "ariaLabel": null,
+      "role": null,
+      "href": "../index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank-pages-cadastro-html__ng-newgenbank.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html",
+    "element": {
+      "index": 1,
+      "tag": "a",
+      "text": "Já tenho conta",
+      "ariaLabel": null,
+      "role": null,
+      "href": "../index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank-pages-cadastro-html__ja-tenho-conta.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/cadastro.html",
+    "element": {
+      "index": 2,
+      "tag": "button",
+      "text": "Continuar →",
+      "ariaLabel": null,
+      "role": null,
+      "href": null,
+      "type": "button",
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "state-change",
+      "destination": null
+    },
+    "screenshot": "tccnewgenbank-pages-cadastro-html__continuar.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html",
+    "element": {
+      "index": 0,
+      "tag": "a",
+      "text": "NG NewGenBank",
+      "ariaLabel": null,
+      "role": null,
+      "href": "../index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank-pages-recuperar-senha-html__ng-newgenbank.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html",
+    "element": {
+      "index": 1,
+      "tag": "a",
+      "text": "Voltar ao login",
+      "ariaLabel": null,
+      "role": null,
+      "href": "../index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank-pages-recuperar-senha-html__voltar-ao-login.png"
+  },
+  {
+    "page": "https://dudugomes-student.github.io/TccNewGenBank/pages/recuperar-senha.html",
+    "element": {
+      "index": 3,
+      "tag": "a",
+      "text": "Cancelar",
+      "ariaLabel": null,
+      "role": null,
+      "href": "../index.html",
+      "type": null,
+      "id": null,
+      "testId": null,
+      "ariaExpanded": null,
+      "ariaSelected": null
+    },
+    "action": "click",
+    "result": {
+      "type": "navigation",
+      "destination": "https://dudugomes-student.github.io/TccNewGenBank/index.html"
+    },
+    "screenshot": "tccnewgenbank-pages-recuperar-senha-html__cancelar.png"
+  }
+]
